@@ -6,7 +6,7 @@
 
     <groupId>me.saberslay</groupId>
     <artifactId>bookshelfchest</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>bookshelfchest</name>
