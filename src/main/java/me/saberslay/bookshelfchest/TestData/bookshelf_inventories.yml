@@ -1,0 +1,202 @@
+world,-63:
+  0,63:
+    0,70:
+      '0':
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - null
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - null
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - null
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+    0,74:
+      '0':
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - null
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - null
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+world,-60:
+  0,63:
+    0,74:
+      '0':
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+    0,70:
+      '0':
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - null
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - null
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - null
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - null
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: WRITABLE_BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: WRITABLE_BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: WRITABLE_BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: WRITABLE_BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - null
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - null
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - null
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
+      - null
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BOOK
