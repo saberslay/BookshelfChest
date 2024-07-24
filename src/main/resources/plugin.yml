@@ -1,0 +1,4 @@
+name: bookshelfchest
+version: '1.0-SNAPSHOT'
+main: me.saberslay.bookshelfchest.Bookshelfchest
+api-version: '1.21'
